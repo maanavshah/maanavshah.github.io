@@ -14,8 +14,16 @@ SocketCluster is an open source real-time framework for Node.js. It supports bot
 
 A desktop assistant for Linux based systems that enable the user to communicate with his/her machine in English/Natural Language, which is translated to the corresponding Linux command by our system. The project is based on
 
+**Publication**: [IJAIEM-2017-06-11-14](http://www.ijaiem.org/Volume6Issue8/IJAIEM-2017-06-11-14.pdf)
 **Tags**: *Machine Learning, Natural Language Processing, Python, Slack Chatbot*
 
+### [**Digimate**](https://github.com/maanavshah/digimate)
+
+**Rajasthan Hackathon, 2018**
+
+An android application for image to text conversion using optical character recognition(OCR). It Runs the Tesseract OCR engine using tess-two. It provides support to search the data, generates the text pdf and image pdf as well.
+
+**Tags**: *Android, Machine Learning, Natural Language Processing*
 
 ### [**Movie Recommendation System using Sentiment Analysis of Movie Reviews**](https://github.com/maanavshah/movie-review-analysis)
 
@@ -26,7 +34,7 @@ Analysing movie's based on user reviews and providing recommendation system by p
 
 ### [**Library Management System**](https://github.com/maanavshah/library-management)
 
-A library management system implemented using Ruby on Rails. It provides authentication, authorizarion, file storage, mailer support and asynchronous execution. This application is also deployed on heroku: [*library-management-7*](https://library-management-7.herokuapp.com/)
+A library management system implemented using Ruby on Rails. It provides authentication, authorisation, file storage, mailer support and background processing. Supported by devise, carrierwave, minimagick, ActionMailer, Sidekiq and Redis. This application is also deployed on Heroku.: [*library-management-7*](https://library-management-7.herokuapp.com/)
 
 **Tags**: *Library Management, Ruby on Rails, Heroku*
 
@@ -47,13 +55,19 @@ An android application to split expenses of a trip, event or anything where mone
 
 ### [**Duplicate File Finder**](https://github.com/maanavshah/duplicate-file-finder)
 
-A Java application with GUI (Swing) to find all the duplicate files in a given directory and all its sub-directories, using the SHA-512 hash function. It supports quick finder and memory saver mode.
+A Java application with GUI (Swing) to scan through all the files in a given directory and sub-directories, then list out all the duplicate files according to their SHA-512 hash function.It supports two modes, Quick Finder or Memory Saver.
 
 **Tags**: *MessageDigest, Storage, Hash, Java, Swing*
 
 
 ### [**Spectre**](https://github.com/maanavshah/spectre)
 
-Designed a website for posting reviews and articles for company recruitment, along with a webpage hit counter using Python and Django.
+Worked on Spectre, A simple blog site for fast integrating your current project with a blog-system. You can easily write blog posts, let users comment the posts. It also supports a page hit counter. Implemented using Django framework with SQLite.
 
 **Tags**: *Blog, Page hit counter, Django, Python*
+
+### [**Tinker Assemblers**]()
+
+Designed NoSQL database-driven website for assembling customized PCs using MongoDB and PHP.
+
+**Tags**: *Php, MongoDB*
