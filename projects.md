@@ -3,18 +3,33 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+
+### [**Quora question pairs**](https://github.com/maanavshah/digimate)
+
+Identify which questions asked on Quora are duplicates of questions that have already been asked. Built a model using XGBoost and SGB classification and applied different NLP models such as Bag of Words, TF-IDF, and Word2vec and achieved an accuracy of 80.7%.
+
+**Tags**: *Machine Learning, Natural Language Processing*
+
+### [**Pneumonia diagnosis from chest x-ray**](https://github.com/maanavshah/digimate)
+
+Predict if a person has pneumonia or not using x-ray images of his chest. Designed a CNN with Transfer Learning using a pre-trained DenseNet-169 model in PyTorch and achieving an accuracy of 90.38%.
+
+**Tags**: *Image Classification (PyTorch)*
+
 ### [**socketcluster-client-ruby**](https://github.com/maanavshah/socketcluster-client-ruby)
 
-SocketCluster is an open source real-time framework for Node.js. It supports both direct client-server communication and group communication via pub/sub channels. It is designed to easily scale to any number of processes/hosts and is ideal for building chat systems. Implemented socketcluster client driver in ruby. You can obtain more information at [*socketcluster.io*](https://www.socketcluster.io/)
+Developed a library for SocketCluster.io's client driver to support both client-server communication and group communication via pub-sub channels. It can be easily scaled to any number of services and it is ideal for building chat systems. You can obtain more information at [*socketcluster.io*](https://www.socketcluster.io/)
+
+Ruby Gem - http://rubygems.org/gems/socketclusterclient. **(1600+ Downloads)**
 
 **Tags**: *SocketCluster, client-driver, Ruby*
-
 
 ### [**Remote Intelligent Assistant (REIA)**](https://github.com/maanavshah/remote-intelligent-assistant)
 
 A desktop assistant for Linux based systems that enable the user to communicate with his/her machine in English/Natural Language, which is translated to the corresponding Linux command by our system. The project is based on
 
 **Publication**: [IJAIEM-2017-06-11-14](http://www.ijaiem.org/Volume6Issue8/IJAIEM-2017-06-11-14.pdf)
+
 **Tags**: *Machine Learning, Natural Language Processing, Python, Slack Chatbot*
 
 ### [**Digimate**](https://github.com/maanavshah/digimate)
